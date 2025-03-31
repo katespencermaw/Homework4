@@ -1,0 +1,137 @@
+,2010 Part D & Part C Display Measures Technical Notes:,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,Topic,,Measure,Proposed Metric/Definition of Measure,General Trend,Data Date Range,Data Sources,Exclusions
+General,,1.,"The file includes reporting time periods for each Medicare Part D performance or quality measure shown in the table.  All data are reported at the contract level. The data do not reflect information for National PACE, Cost plans, Employer Group Health plans (EGHPs), Continuing Care Retirement Community demonstrations (CCRCs), End Stage Renal Disease Networks (ESRDs), and Demonstration plans. ",,,,,
+,,2.,"Reasons for ""Not measured""may include: Benefit not offered by plan, Not enough data available to calculate measure, Plan not required to report measure, Plan too new to be measured, Plan too small to be measured, Plan elected not to report data, Plan reported a Biased Rate.",,,,,
+Part D,Access,1.,Timely Receipt of Case Files for Appeals ,"This measure is defined as the percent of case files that were requested by the IRE that were received timely from the plan.  (Timely is defined as files being received from the plan within 48 hours for Standard appeals, and within 24 hours for Expedited appeals.)  
+
+Numerator = The number of case files requested that were received in the required timeframe.
+
+Denominator = The number of case files requested by the IRE.
+
+This is calculated as:  [(The number of case files received in the required timeframe) / (The number of case files requested by the IRE)] * 100.",Higher is better,January to July 2009,"Data were obtained from the IRE contracted by CMS for Part D reconsiderations.
+
+These data are limited to appeal cases requested by beneficiaries and the IRE requests files from the plans.   Cases auto-forwarded to the IRE are excluded from these data.  ",None.
+,,2.,Timely Effectuation of Appeals,"This measure is defined as the percent of appeals that required effectuation that the plan effectuated in a timely manner (Timely is  defined as within one day of decision notification for Expedited appeals, or three days of decision notification for Standard appeals.).
+
+Numerator = The number of the appeals that were effectuated timely.
+
+Denominator = The number of the dispositions which required effectuation. Appeals with a Disposition of “Fully Reverse Plan” or “Partially Reverse Plan” require effectuation. This measure looks at the most recent proceeding where effectuation is required in the event of ALJ’s or Reopenings.
+
+This is calculated as:  [(The number of the appeals that were effectuated timely) / (The number of the dispositions which required effectuation)] * 100.",Higher is better,January to July 2009,"Data were obtained from the IRE contracted by CMS for Part D reconsiderations.
+
+Timely is defined as within one day of decision notification for Expedited appeals, or three days of decision notification for Standard appeals.  For appeals involving plans making payments, timely is defined as payment being made within 30 calendar days of decision notification.",None.
+,,3.,Timely Enrollment Processing,"This measure is defined as the percent of plan generated enrollment transactions submitted to CMS within 7 days of the application date.
+
+Numerator = The number of plan generated enrollment transactions submitted to CMS within 7 days of the application date
+
+Denominator = The total number of plan generated enrollment transactions submitted to CMS
+
+This is calculated as: [(The number of plan generated enrollment transactions submitted to CMS within 7 days of the application date) / (The total number of plan generated enrollment transactions submitted to CMS)] * 100",Higher is better,March 13 to July 10 2009,Medicare Advantage Prescription Drug System (MARx)  ,"Contracts with a total of 5 or fewer transactions in the measurement period are excluded from this data set.
+
+Beneficiaries of ICEP will be excluded from the measurement."
+,Call Center,1.,Calls Disconnected When Customer Calls Drug Plan ,"This measure is defined as the percent of member services calls disconnected.
+
+Numerator = The member services calls disconnected.
+
+Denominator = The total member services calls received.
+
+This is calculated as:  [(The member services calls disconnected) / (The total member services calls received)] * 100.",Lower is better,January to June 2009,Call center surveillance monitoring data collected by CMS.  The “Customer Service for Current Members – Part D” phone number associated with each contract was monitored. This measure is based on calls to the current enrollee call center.,Data were not collected from MA-PDs and PDPs under sanction or from organizations that did not have a phone number accessible to the survey callers.
+,,2.,Calls Disconnected When Pharmacist Calls Drug Plan,"This measure is defined as the percent of pharmacy help desk calls disconnected.
+
+Numerator = The number of pharmacy help desk calls disconnected.
+
+Denominator = The total number of pharmacy help desk calls received.
+
+This is calculated as:  [(The number of pharmacy help desk calls disconnected) / (The total number of pharmacy help desk calls received)] * 100.",Lower is better,January to June 2009,Call center surveillance data collected by CMS. The “Pharmacy Technical Help Desk” phone number associated with each contract was monitored.,Data were not collected from MA-PDs and PDPs under sanction or from organizations that did not have a phone number accessible to survey callers.
+,,3.,Call center - CSR Understandability,"This measure is defined as the percent of plan CSRs who were understandable when they spoke. Understandability is defined as how well callers were able to understand customer service representatives (CSRs) based on volume, clarity, speed, and professionalism.  
+
+Numerator = The number of plan CSRs who were understandable when they spoke.
+
+Denominator = The total number of plan CSRs.
+
+This is calculated as:  [(The number of plan CSRs who were understandable when they spoke) / (The total number of plan CSRs)] * 100.",Higher is better,January to March 2009,Data were collected by CMS; the “Customer Service for Prospective Members – Part D” phone number associated with each contract was monitored. This measure is based on calls made to the prospective enrollee call center.  ,Data were not collected from MA-PDs and PDPs under sanction or from organizations that did not have a phone number accessible to survey callers.
+,Complaints,1.,Appropriate Complaint Resolution,"This measure is defined as the percent of complaints closed in the CTM by the contract prior to completing the resolution implementation or that did not meet best practices or industry standards.
+
+Numerator = Number of sampled complaints for which a resolution was implemented after the date the complaint is initially closed in the CTM  or did not meet best practices or industry standards
+
+Denominator = Total # of sampled complaints of a contract during the reporting period
+
+This is calculated as:  [(Number of sampled complaints for which a resolution was implemented after the date the complaint is initially closed in the CTM  or did not meet best practices or industry standards) / (Total # of sampled complaints of a contract during the reporting period)] * 100",Lower is better,,"Data collected by CMS, using Complaints Tracking Module (CTM) data.",
+,Patient Safety,1.,Drug-Drug Interactions ,"This measure is defined as the percent of patients who received a prescription for a target medication during the measurement period and who were dispensed a prescription for a contraindicated medication with or subsequent to the initial prescription.
+
+Numerator = Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a target medication with at least one day overlap with a contraindicated medication.
+
+Denominator = Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a target medication.
+
+This is calculated as: [(Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a target medication) / (Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a target medication with at least one day overlap with a contraindicated medication)]*100.",Lower is better,"January 1, 2008 to December 31, 2008","Data were obtained from PDE data files submitted by drug plans to Medicare for the reporting period. (Please refer to Appendix 1: Target and Contraindicated Medications for a comprehensive list of the medications used in this analysis from the PQA and NCQA measure concept specifications.)
+
+Based on medical research, when certain medications are taken during the same time, there may be an increased risk of serious side effects.    In some cases, it may be appropriate for a patient to take the two medications at the same time after considering the risks and the benefits.  Doctors and drug plans share a responsibility for providing safe prescription drugs.",None.
+,,2.,Diabetes Medication Dosing,"This measure is defined as the percent of patients who were dispensed a dose higher than the daily recommended dose for the following diabetes treatment therapeutic categories of oral hypoglycemics: biguanides, sulfonlyureas and thiazolidinediones.
+
+Numerator = Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a dose of an oral hypoglycemic higher than the daily recommended dose.
+
+Denominator = Number of member-years of beneficiaries enrolled during the measurement period who were dispensed at least one prescription of an oral hypoglycemic.
+
+This is calculated as: [(Number of member-years of beneficiaries enrolled during the measurement period who were dispensed a dose of an oral hypoglycemic higher than the daily recommended dose) / (Number of member-years of beneficiaries enrolled during the measurement period who were dispensed at least one prescription of an oral hypoglycemic)]*100.",Lower is better,"January 1, 2008 to December 31, 2008",Data were obtained from PDE data files submitted by drug plans to Medicare for the reporting period. Please refer to Appendix 2: DMD Target Medications and Dosage Amounts for a comprehensive list of medications and their maximum dosage amounts used in this analysis from the PQA and NCQA measure concept specifications.,None.
+,Plan Finder,1.,Drug Plan Provides Current Information on Costs and Coverage for Medicare’s Website,"This measure is defined as percent of pricing data file submissions that do not result in suppression of pricing data on www.medicare.gov.  
+
+Numerator = Number of pricing data file submissions that do not result in suppression of pricing data on www.medicare.gov
+
+Denominator = Total Number of pricing data submissions
+
+This is calculated as: [(Number  of pricing data file submissions that do not result in suppression of pricing data on www.medicare.gov) / (Total Number of pricing data submissions)]*100.",Higher is better,"Jnauary 1 to September 10, 2009",,None.
+,Call Center,1.,Call Answer Timeliness,"This measure is defined as the percentage of calls received by the organization’s Member Services call centers (during operating hours) during the measurement year that were answered by a live voice within 30 seconds.
+
+Numerator = Number of calls answered by a live voice within 30 seconds.
+
+Denominator = Number of calls received by member services (during hours of operation)
+
+This is calculated as: [(number of calls answered by a live voice within 30 seconds) / (number of calls received by member services (during hours of operation))] * 100",Higher is better,"January 1 to December 31, 2008",HEDIS,
+,,2.,Call Center Understandability,"This measure is defined as the percent of plan CSRs who were understandable when they spoke. Understandability is defined as how well callers were able to understand customer service representatives (CSRs) based on volume, clarity, speed, and professionalism.  
+
+Numerator = The number of plan CSRs who were understandable when they spoke.
+
+Denominator = The total number of plan CSRs.
+
+This is calculated as:  [(The number of plan CSRs who were understandable when they spoke) / (The total number of plan CSRs)] * 100.",Higher is better,February to June 2009.,Data were collected by CMS; the “Customer Service for Prospective Members – Part C” phone number associated with each plan was monitored. This measure is based on calls made to the prospective enrollee call center.  ,
+,,3.,Follow-up Visit after Hospital Stay for Mental Illness (within 30 days of discharge),"This measure is defined as the percent of discharges for MA enrollees hospitalized for mental illness during the measurement year, for which at least one follow up visit with a mental health practitioner occurred within 30 days of discharge.
+
+Numerator = Number of discharges for MA enrollees hospitalized for mental illness during the measurement year which at least one follow up visit with a mental health practitioner occurred within 30 days of discharge.
+
+Denominator = Number of discharges for MA enrollees hospitalized for mental illness during the measurement year.
+
+This is calculated as: [Number of discharges for MA enrollees hospitalized for mental illness during the measurement year which at least one follow up visit with a mental health practitioner occurred within 30 days of discharge) / (Number of discharges for MA enrollees hospitalized for mental illness during the measurement year)]*100.",Higher is better,"January 1 to December 31, 2008",HEDIS,
+,,4.,Antidepressant Medication Management (6 months),"This measure is defined as the percentage of members 18 years of age and older who were diagnosed with a new episode of major depression, treated with antidepressant medication, and who remained on an antidepressant medication treatment.
+
+Numerator = Number of members who remained on antidepressants for at least 180 days (6 months)
+
+Denominator = Number of MA enrollees with a new diagnosis of depression.
+
+This is calculated as:  [(Number of members who remained on antidepressants for at least 180 days) / (Number of MA enrollees with a new diagnosis of depression)] * 100",Higher is better,"January 1 to December 31, 2008",HEDIS,
+,,5.,Continuous Beta Blocker Treatment,"This measure is defined as the percentage of members who were hospitalized and discharged alive from July 1 of the year prior to the measurement year to June 30 of the measurement year with a diagnosis of acute myocardial infarction and who received persistent beta-blocker treatment for six months after discharge.
+
+Numerator = The eligible population.
+
+Denominator = Number of members who received beta-blocker treatment for 180 days.
+
+This is calculated as:  [(The eligible population) / (Number of members who received beta-blocker treatment for 180 days )] * 100",Higher is better,"January 1 to December 31, 2008",HEDIS,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

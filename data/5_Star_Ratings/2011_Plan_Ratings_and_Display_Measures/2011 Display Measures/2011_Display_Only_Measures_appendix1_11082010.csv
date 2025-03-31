@@ -1,0 +1,29 @@
+ Appendix 1: Medication List for Drug-Drug Interactions (DDI) Measure,,
+Updated by Pharmacy Quality Alliance (PQA) 08.31.10,,
+,,
+"Note: Part D drugs do not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1927(d)(2) of the Act, except for smoking cessation agents.  As such, these drugs which may be included in this list are excluded from CMS analyses.",,
+,,
+,,
+,Target Medication,Contraindicated Medication
+,"Benzodiazepines: alprazolam, midazolam, triazolam","Azole antifungal agents: ketoconazole, itraconazole, fluconazole, posaconazole, voriconazole"
+,carbamazepine,propoxyphene
+,cyclosporine,"Rifamycins: rifampin, rifabutin, rifapentine"
+,digoxin,"clarithromycin, erythromycin, azithromycin, telithromycin "
+,"Ergot alkaloids: ergotamine, dihydroergotamine","clarithromycin, erythromycin, telithromycin "
+,"Estrogen/progestin oral contraceptives: desogestrel-ethinyl estradiol, drospirenonoe-ethinyl estradiol, ","Rifamycins: rifampin, rifabutin, rifapentine"
+,"estradiol valerate-dienogest, ethinyl estradiol-ethynodiol, ethinyl estradiol-levonorgestrel, ethinyl estradiol-norethindrone, ethinyl estradiol-norgestimate",
+,"ethinyl estradiol-norgestrel, mestranol-norethindrone",
+,"MAO Inhibitors: isocarboxazid, linezolid, phenelzine, rasagiline, selegiline, tranylcypromine","Sympathomimetics: amphetamines, atomoxetine, benzphetamine, dextroamphetamine, diethylpropion, isometheptene, methamphetamine, methylphenidate, phendimetrazine, phentermine, phenylephrine, pseudoephedrine, tapentadol, dexmethylphenidate, lisdexamfetamine"
+,,"Serotonergic Agents: buspirone, citalopram, cyclobenzaprine, desvenlafaxine, dextromethorphan, duloxetine, escitalopram, fluoxetine, fluvoxamine, meperidine, milnacipran, mirtazapine, paroxetine, sertraline, sibutramine, tetrabenazine, tramadol, trazodone, venlafaxine"
+,methotrexate,trimethoprim/sulfamethoxazole
+,"Nitrates: amyl nitrite, isosorbide dinitrate, isosorbide mononitrate, nitroglycerin","Phosphodiesterase inhibitors: sildenafil, tadalafil, vardenafil"
+,simvastatin (40mg & 80mg) ,amiodarone
+,tamoxifen ,"bupropion, duloxetine, fluoxetine, paroxetine"
+,theophylline ,"ciprofloxacin, fluvoxamine"
+,mercaptopurine,allopurinol
+,warfarin,"cimetidine, trimethoprim/sulfamethoxazole,"
+,,"Fibrates: fenofibrate, fenofibric acid, gemfibrozil, "
+,,"NSAIDs: diclofenac, etodolac, fenoprofen, flurbiprofen, ibuprofen, indomethacin, ketoprofen, ketorolac, meclofenamate, mefenamic acid, meloxicam, nambumetone, naproxen, oxaprozin, piroxicam, sulindac, tolmetin"
+,"Note: Includes combination products and the following routes of administration: oral, sublingual, nasal, self-injectable (dihydroergotamine), rectal, buccal, transdermal, inhaled and translingual.  Does NOT include OTC products, bulk powder products and excludes the following routes of administration: IV, IM, injectable, external (with the exception of transdermal nitroglycerine patch/ointment), ophthalmic and OTIC
+MAO = mono-amine oxidase.  NSAIDs = non-steroidal anti-inflammatory drugs.
+",
